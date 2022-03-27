@@ -1,5 +1,5 @@
-- 👋 Ciao, ragazzi! (sweet version of _'the godfather'_ theme playing on the background)\
-- 👀 Im, Amanda, a.k.a _@theagoinski_. Get to know me by looking for this same user everywhere, but mainly Instagram, and Linkedin. \
+- 👋 Ciao, ragazzi! (sweet version of _'the godfather'_ theme playing on the background)
+- 👀 Im, Amanda, a.k.a _@theagoinski_. Get to know me by looking for this same user everywhere, but mainly Instagram, and Linkedin. 
 - 🌱 Im a growing programmer and developer with interests in, mainly, backend knowledge.
 
 <!---
